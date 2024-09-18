@@ -10,6 +10,7 @@ This project performs a comprehensive data analysis on VIDIO.COM usage data to g
 
 ## Usage Guide
 - Cloning Repository: Clone this repository to your local machine with the command: `git clone https://github.com/fadhiljr7/datascience001.git`
+- Install dependencies: Ensure you have Python and Jupyter installed. You can install the required libraries by running: `pip install -r requirements.txt`
 - Open Notebook: Open notebook.ipynb in Jupyter Notebook or Google Colab to see the entire analysis process and visualization results.
 - View Insights: Use the "Insight and Story of Data.pdf" file to get a visual summary of the analysis and key insights.
 - Link to DataSet.txt : The data.csv file can be used to perform further analysis or verify results with raw data.
